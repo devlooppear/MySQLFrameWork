@@ -2,7 +2,7 @@ import mysql.connector
 
 HOST = 'localhost'
 USER = 'root'
-PASSWORD = '12345'
+PASSWORD = '<sua senha>'
 DATABASE = ''
 
 class MySQLDB:
