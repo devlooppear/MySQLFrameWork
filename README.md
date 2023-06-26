@@ -1,4 +1,4 @@
-# MySQL Python API
+# MySQLFrameWork
 
 - Este é um exemplo de como utilizar o MySQL em Python utilizando o pacote mysql-connector-python. O objetivo é automatizar e facilitar operações dentro de um ou mais banco de dados com o Sistema Gerenciador de Banco de Dados MySQL, como criar tabelas, inserir, atualizar e excluir dados de forma mais p´ratica, por exemplo, inserindo várias variáveis de forma mais prática.
 
